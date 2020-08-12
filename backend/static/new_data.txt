@@ -1,0 +1,2 @@
+ImmutableMultiDict([('account', '111'), ('password', '222')])
+ImmutableMultiDict([('account', 'aaa'), ('password', 'bbb')])
